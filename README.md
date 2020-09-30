@@ -1,4 +1,4 @@
 # tunniplaan
 projektipäev
-kaerma.kaerma@gmail.com
-
+Mattias Kaerma on Slacki nimi
+merlinpraksi@gmail.com - slack
