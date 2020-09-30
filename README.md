@@ -1,3 +1,4 @@
 # tunniplaan
 projektipäev
-Mattias Kaerma on Slacki nimi
+kaerma.kaerma@gmail.com
+
