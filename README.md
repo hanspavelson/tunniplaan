@@ -1,3 +1,3 @@
 # tunniplaan
 projektipäev
-Mattias Kaerma
+Mattias Kaerma on Slacki nimi
