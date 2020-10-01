@@ -1,0 +1,21 @@
+.box1 {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid
+
+
+
+}
+html, body, .box {
+    height: 100%;
+}
+.box {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 0 rem;
+
+}
