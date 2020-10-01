@@ -5,6 +5,12 @@
   justify-content: center;
   border: 1px solid;
   margin: 5px;  
+  height: 50px;
+  weight:100px;
+  background-color: #1F2C73;
+  color: white;
+
+
 }
 html, body, .box {
     height: 100%;
@@ -14,11 +20,10 @@ html, body, .box {
     display: flex;
     flex-direction: column;
     align-content: center;
-    padding: 100px;
     height: 250px;
-    weight: 100px;
+  
     
 }
 .jpg {
-  width: 100%;
+max-width: 100%;
 }
