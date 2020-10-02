@@ -1,0 +1,77 @@
+@media (max-width: 800px) {
+
+    }
+
+.day {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    color: #FFA45C;
+}
+
+.class1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    color: #000000;
+
+}
+
+
+.box1 {
+    border-radius: 10px;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  flex: space-between 90px;
+  height:100px;
+  background-color: #5D5D5A;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+  .box2 {
+    border-radius: 10px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    flex: space-between 90px;
+    height: 40px;
+    background-color: #FFA45C;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+html, body, .box {
+    height: 100%;
+    font-family: 'Baloo Bhai';font-size: 24px;
+}
+.box {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    padding: 10px;
+    height: 70%;
+
+
+
+
+}
+.jpg {
+    max-width:100%;
+    scale: 100%;
+
+}
