@@ -6,29 +6,32 @@
   border: 1px solid;
   margin: 5px;  
   height: 50px;
-  weight:100px;
+
   background-color: #5D5D5A;
   color: white;
+
 
 
 }
 html, body, .box {
     height: 100%;
     font-family: 'Baloo Bhai';font-size: 24px;
+    background-image: url("hiclipart.jpg");
 }
 .box {
+    display: flex;  
     justify-content: space-between;
-    display: flex;
     flex-direction: column;
-
     height: 250px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
 
-    
-  
-    
 }
 .jpg {
-    max-width:100%;
-    scale: 100%;
  
+ 
+  
+  
 }
