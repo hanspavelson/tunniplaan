@@ -1,7 +1,6 @@
 # tunniplaan
 projektipäev
 
-Sudo apt Tee töö valmis
 
 Kondikava pandi tiimi poolt paika.
 
