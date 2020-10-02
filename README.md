@@ -1,6 +1,8 @@
 # tunniplaan
 projektipäev
 
+Sudo apt Tee töö valmis
+
 Kondikava pandi tiimi poolt paika.
 
 README.md - Kadri koostab.
@@ -10,6 +12,8 @@ FIGMA - Hans juhendab Rasmust, Merlini ja Mattiast kasutama Figmat. Avaldadakse 
 FIGMA PROTOTÜÜP VALMIS! 
 
 INDEX.HTML ja STYLE.CSS - Karl ja Hans teevad.
+
+https://www.figma.com/proto/FkQ6Iwz9VujaWZqXQQzgVr/Untitled?node-id=16%3A4&scaling=scale-down
 
 
 
