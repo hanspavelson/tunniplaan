@@ -17,6 +17,8 @@ https://www.figma.com/proto/FkQ6Iwz9VujaWZqXQQzgVr/Untitled?node-id=16%3A4&scali
 
 https://tunniplaan.slack.com/files/U01BGCK55GE/F01BR9BV5PX/ametitunniplaan2.pptx
 
+https://www.figma.com/file/FkQ6Iwz9VujaWZqXQQzgVr/Untitled?node-id=0%3A1
+
 
 
 
