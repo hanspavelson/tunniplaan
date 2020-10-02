@@ -7,23 +7,28 @@
   margin: 5px;  
   height: 50px;
   weight:100px;
-  background-color: #1F2C73;
+  background-color: #5D5D5A;
   color: white;
 
 
 }
 html, body, .box {
     height: 100%;
+    font-family: 'Baloo Bhai';font-size: 24px;
 }
 .box {
-    justify-content: center;
+    justify-content: space-between;
     display: flex;
     flex-direction: column;
-    align-content: center;
+
     height: 250px;
+
+    
   
     
 }
 .jpg {
-max-width: 100%;
+    max-width:100%;
+    scale: 100%;
+ 
 }
